@@ -24,8 +24,8 @@ Un programa de autoclicker potente y flexible con interfaz gráfica para automat
 1. Clona o descarga este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/autoclicker-avanzado.git
-cd autoclicker-avanzado
+git clone https://github.com/tu-usuario/autoclicker.git
+cd autoclicker
 ```
 
 2. Ejecuta el programa:
